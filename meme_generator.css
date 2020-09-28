@@ -1,0 +1,32 @@
+:root {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+}
+
+* {
+    font: inherit;
+}
+
+#meme-canvas {
+    width:450px;
+}
+
+body{
+    background-color: rgb(177, 177, 177);
+}
+
+div {
+text-align: center;
+}
+
+#content {
+    text-align: center;
+}
+
+#image {
+    text-align: center;
+}
+
+.container #f5f5f5 grey lighten-5{
+    background-color: blanchedalmond;
+}
